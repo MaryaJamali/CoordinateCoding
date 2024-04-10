@@ -10,3 +10,7 @@ enx = str(nxi**2-7)
 eny = str(nyi**3-6)
 print('Encrypted x is :'+' '+enx+'.'+nxs)
 print('Encrypted y is :'+' '+eny+'.'+nys)
+
+# Name of the programmer: Maryam Jamali
+# Email address: m.jamali16@yahoo.com
+# GitHub address: https://github.com/MaryaJamali
